@@ -1,0 +1,88 @@
+html, body{
+					font-family: Arial;
+					text-align:justify;
+					margin:0;
+					padding:0;
+					background-repeat:no-repeat;
+					background-image:url(fond/briqf.jpg);
+					background-position:100%;
+					background-attachment:fixed;
+					background-size: cover;
+}
+
+
+*{box-sizing: border-box;
+transition: 15s;
+}
+
+
+#menu{
+position:fixed;
+top:0;
+left:0;
+margin-top:0;
+background-color: #565656;
+width: 100%;
+height: 60px;
+padding:15px;
+opacity: 0.75;
+color: #333333;
+}
+
+#menu li{
+
+display : inline;
+padding : 0 0.5em;	
+}
+
+#menu a:active, a:link, a:visited{
+color: #333333;
+text-decoration: none;	
+font-family: Kavoon;
+font-size: 28px;
+transition: 1s;
+}
+
+#menu a:hover{
+color: #eeeeee;
+text-decoration: none;	
+font-family: Kavoon;
+font-size: 30px;
+}
+
+#menu span {
+color: #666666;
+font-family: Kavoon;
+font-size: 30px;
+}
+
+#titre {
+color: #444444;
+font-size: 60px;
+font-family: Fruktur;
+text-align: center;
+margin-top: 150px;
+}
+
+#blabla {
+color: #333333;	
+font-size: 30px;	
+font-family: Kavoon;	
+margin: 30px;
+margin-top: 200px;
+background-color: #efefef;
+padding: 15px;
+text-align: justify;
+opacity: 0.9;
+height:500px;
+}
+
+#image img{
+float: right;
+width: 300px;
+height: 430px;
+margin: 15px;
+margin-top: 0px;
+}
+
+
