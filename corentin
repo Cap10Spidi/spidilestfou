@@ -1,0 +1,123 @@
+<div id="actPage">Page 1</div>
+<div class="container">
+	<div class="row">
+		<div class="col-sm-6 col-md-4">
+		    <div class="thumbnail">
+		    	<a href="activities-show.php">
+		        	<img src="https://picsum.photos/400/400/?random" alt="random">
+		        </a>
+		        <div class="caption">
+		        	<h3>Resto</h3>
+		            <p>Les saveurs traditionnelles de la Normandie se retrouvent à Rouen, au grand bonheur des gourmets. Ne manquez pas de goûter à la spécialité du caneton à la rouennaise, plat incontournable de la ville ou au Douillon d’Elbeuf.</p>
+		            <a href="activities-show.php" class="btn btn-primary button-saison" role="button">Voir plus
+		            </a>
+		        </div>
+		    </div>
+		</div>
+		<div class="col-sm-6 col-md-4">
+		    <div class="thumbnail">
+		    	<a href="activities-show.php">
+		        	<img src="https://picsum.photos/400/400/?random2" alt="random">
+		        </a>
+		        <div class="caption">
+		        	<h3>Laurem Hispoum</h3>
+		            <p>Blablabla, c'est surement des superbes activités que l'on vous aurait proposées mais à pars le restaurant j'avais pas trop d'idée et je me suis surtout dit que un texte en Lorem Ipsum était trop commun du coup j'ai écrit ce petit truc... </p>
+		            <a href="activities-show.php" class="btn btn-primary button-saison" role="button">Voir plus
+		            </a>
+		        </div>
+		    </div>
+		</div>
+		<div class="col-sm-6 col-md-4">
+		    <div class="thumbnail">
+		    	<a href="activities-show.php">
+		        	<img src="https://picsum.photos/400/400/?random3" alt="random">
+		        </a>
+		        <div class="caption">
+		        	<h3>Laurem Hispoum</h3>
+		            <p>Blablabla, c'est surement des superbes activités que l'on vous aurait proposées mais à pars le restaurant j'avais pas trop d'idée et je me suis surtout dit que un texte en Lorem Ipsum était trop commun du coup j'ai écrit ce petit truc... </p>
+		            <a href="activities-show.php" class="btn btn-primary button-saison" role="button">Voir plus
+		            </a>
+		        </div>
+		    </div>
+		</div>
+		<div class="col-sm-6 col-md-4">
+		    <div class="thumbnail">
+		    	<a href="activities-show.php">
+		        	<img src="https://picsum.photos/400/400/?random4" alt="random">
+		        </a>
+		        <div class="caption">
+		        	<h3>Laurem Hispoum</h3>
+		            <p>Blablabla, c'est surement des superbes activités que l'on vous aurait proposées mais à pars le restaurant j'avais pas trop d'idée et je me suis surtout dit que un texte en Lorem Ipsum était trop commun du coup j'ai écrit ce petit truc... </p>
+		            <a href="activities-show.php" class="btn btn-primary button-saison" role="button">Voir plus
+		            </a>
+		        </div>
+		    </div>
+		</div>
+		<div class="col-sm-6 col-md-4">
+		    <div class="thumbnail">
+		    	<a href="activities-show.php">
+		        	<img src="https://picsum.photos/400/400/?random5" alt="random">
+		        </a>
+		        <div class="caption">
+		        	<h3>Laurem Hispoum</h3>
+		            <p>Blablabla, c'est surement des superbes activités que l'on vous aurait proposées mais à pars le restaurant j'avais pas trop d'idée et je me suis surtout dit que un texte en Lorem Ipsum était trop commun du coup j'ai écrit ce petit truc... </p>
+		            <a href="activities-show.php" class="btn btn-primary button-saison" role="button">Voir plus
+		            </a>
+		        </div>
+		    </div>
+		</div>
+		<div class="col-sm-6 col-md-4">
+		    <div class="thumbnail">
+		    	<a href="activities-show.php">
+		        	<img src="https://picsum.photos/400/400/?random6" alt="random">
+		        </a>
+		        <div class="caption">
+		        	<h3>Laurem Hispoum</h3>
+		            <p>Blablabla, c'est surement des superbes activités que l'on vous aurait proposées mais à pars le restaurant j'avais pas trop d'idée et je me suis surtout dit que un texte en Lorem Ipsum était trop commun du coup j'ai écrit ce petit truc... </p>
+		            <a href="activities-show.php" class="btn btn-primary button-saison" role="button">Voir plus
+		            </a>
+		        </div>
+		    </div>
+		</div>
+		<div class="col-sm-6 col-md-4">
+		    <div class="thumbnail">
+		    	<a href="activities-show.php">
+		        	<img src="https://picsum.photos/400/400/?random7" alt="random">
+		        </a>
+		        <div class="caption">
+		        	<h3>Laurem Hispoum</h3>
+		            <p>Blablabla, c'est surement des superbes activités que l'on vous aurait proposées mais à pars le restaurant j'avais pas trop d'idée et je me suis surtout dit que un texte en Lorem Ipsum était trop commun du coup j'ai écrit ce petit truc... </p>
+		            <a href="activities-show.php" class="btn btn-primary button-saison" role="button">Voir plus
+		            </a>
+		        </div>
+		    </div>
+		</div>
+		<div class="col-sm-6 col-md-4">
+		    <div class="thumbnail">
+		    	<a href="activities-show.php">
+		        	<img src="https://picsum.photos/400/400/?random8" alt="random">
+		        </a>
+		        <div class="caption">
+		        	<h3>Laurem Hispoum</h3>
+		            <p>Blablabla, c'est surement des superbes activités que l'on vous aurait proposées mais à pars le restaurant j'avais pas trop d'idée et je me suis surtout dit que un texte en Lorem Ipsum était trop commun du coup j'ai écrit ce petit truc... </p>
+		            <a href="activities-show.php" class="btn btn-primary button-saison" role="button">Voir plus
+		            </a>
+		        </div>
+		    </div>
+		</div>
+		<div class="col-sm-6 col-md-4">
+		    <div class="thumbnail">
+		    	<a href="activities-show.php">
+		        	<img src="https://picsum.photos/400/400/?random9" alt="random">
+		        </a>
+		        <div class="caption">
+		        	<h3>Laurem Hispoum</h3>
+		            <p>Blablabla, c'est surement des superbes activités que l'on vous aurait proposées mais à pars le restaurant j'avais pas trop d'idée et je me suis surtout dit que un texte en Lorem Ipsum était trop commun du coup j'ai écrit ce petit truc... </p>
+		            <a href="activities-show.php" class="btn btn-primary button-saison" role="button">Voir plus
+		            </a>
+		        </div>
+		    </div>
+		</div>
+	</div>
+</div>
+
